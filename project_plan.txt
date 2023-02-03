@@ -1,0 +1,26 @@
+#1 - INSTALL OBJECT DETECTOR FROM VIDEOS (yolov5) - Done
+
+#2 - LEARN HOW TO USE LIBRARY
+    #2b - !!!!! See if it's possible to read text from detected objects !!!!! - OK
+
+#3 - LEARN HOW TO CREATE CUSTOM DATASETS
+
+    
+#4 - DETERMINE HOW THE MODEL WILL KNOW WHICH PLAYER IS PLAYING AND WHEN HE'S DONE PLAYING
+
+#5 - DECIDE HOW THE DATASET WILL BE, ALL THE FIELDS AND ETC...
+
+usage: detect.py [-h] [--weights WEIGHTS [WEIGHTS ...]] [--source SOURCE] [--data DATA] [--imgsz IMGSZ [IMGSZ ...]]
+                 [--conf-thres CONF_THRES] [--iou-thres IOU_THRES] [--max-det MAX_DET] [--device DEVICE] [--view-img]
+                 [--save-txt] [--save-conf] [--save-crop] [--nosave] [--classes CLASSES [CLASSES ...]]
+                 [--agnostic-nms] [--augment] [--visualize] [--update] [--project PROJECT] [--name NAME] [--exist-ok]
+                 [--line-thickness LINE_THICKNESS] [--hide-labels] [--hide-conf] [--half] [--dnn]
+                 [--vid-stride VID_STRIDE]
+
+---------------------------------------------------------------------------------------------------
+
+DETECTIONS:
+
+ - Players -> test this...
+ - Button
+ - Button + player

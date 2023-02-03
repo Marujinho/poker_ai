@@ -1,0 +1,14 @@
+buy_in
+tournament_speed
+hand_id
+player
+player_stack
+table_position
+big_blind
+small_blind
+pot
+board_type(rainbow, sequence_draw, suit_draw, suit_sequence_draw, high, low, random)
+aggressive_plays_behind_player
+action
+
+
